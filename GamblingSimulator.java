@@ -29,6 +29,7 @@ public class GamblingSimulator {
                 lostTotal += lost;
                 l++;
                 lostDaY[j] = i;
+
             } else {
                 won = stake - 100;
                 wonTotal += won;
